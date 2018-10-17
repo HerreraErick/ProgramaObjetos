@@ -3,4 +3,4 @@ Usando la POO crear una clase llamada Cuadrado la cual tendrá las siguientes ha
 
 Erick Herrera Gonzalez   ushiromiya@gmail.com
 
-Para ejecutar el programa se debe abrir con el IDE Netbeans y de ahi ejecutar el proyecto
+Para ejecutar el programa se debe importar la carpta del proyecto al IDE Netbeans y de ahi ejecutar el proyecto
